@@ -1,0 +1,71 @@
+startScreenText: Appuyez sur une touche ou cliquez sur la souris pour commencer
+quitText: Quitter
+pauseText: Pause
+playText: Reprendre
+newGameText: Nouveau Jeu...
+preferencesText: Préférences...
+gravity: Gravité
+prefsWindowTitle: Préférences de Pong
+fgColorChange: Changer la couleur du premier plan...
+bgColorChange: Changer la couleur du fond...
+fgColorChangeTitle: Changer la couleur du premier plan
+bgColorChangeTitle: Changer la couleur du fond
+newGameTitle: Nouveau Jeu - Choisir Mode
+sgTraining: Un joueur: entraînement
+sgArkanoid: Un joueur: casse-brique
+dualHumanHuman: Deux joueurs: homme vs. homme
+dualHumanComputer: Deux joueurs: homme vs. ordinateur
+dualBattle: Deux joueurs: homme vs. homme - bataille
+cancel: Annuler
+ok: OK
+colorScheme: Couleurs
+ball: Balle
+changeBallSpeed: Changer la vitesse de la balle
+changeBallSize: Changer la taille de la balle
+changePaddleHeight: Changer la taille de la raquette
+paddle: Raquette
+bricks: Briques
+bricksColorChange: Changer la couleur des briques...
+bricksColorChangeTitle: Changer la couleur des briques
+missile: Missile
+missileColorChange: Changer la couleur du missile...
+missileColorChangeTitle: Changer la couleur du missile
+wall: Mur
+changeWallColor: Changer la couleur du mur...
+changeWallColorTitle: Changer la couleur du mur
+changeWallHeight: Changer la hauteur du mur
+winnerString: Le côté %s a gagné!
+left: gauche
+right: droite
+hitString: Coups réussis: %s
+missString: Coups ratés: %s
+scoreString: Points: %s
+livesString: Vies restantes: %s
+timeRemaining: Temps restant:
+gameOver: Jeu terminé
+gameOverOptions: Vous avez utilisé toutes vos vies ou le temps s'est écoulé.\
+Voulez-vous continuer à jouer?
+rows: Lignes:
+columns: Colonnes:
+physics: Physique
+help: Aide
+score: Score
+maxScore: Score maximal:
+terminalVelocity: Vitesse terminale
+about: À propos de Pong
+version: Version
+copyright: © 2015 Leo Horne. Tous droits réservés.
+reportBug: Signaler un bug...
+userManual: Guide d'utilisateur...
+sendingBugReport: En train d'envoyer...
+title: Titre:
+whatHappenedString: Décrivez ce qui s'est passé lorsque vous avez rencontré ce bug:
+reproduceString: Si possible, décrivez comment on peut reproduire le bug:
+name: Votre Nom:
+submit: Soumettre
+addScreenshot: Ajouter une capture d'écran
+AI: IA
+changeAIDifficulty: Changer la difficulté de l'IA
+easy: Facile
+medium: Moyen
+hard: Difficile

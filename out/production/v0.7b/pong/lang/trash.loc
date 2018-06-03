@@ -1,0 +1,40 @@
+startScreenText: trash.loc
+quitText: Quit
+pauseText: Pause
+playText: Play
+newGameText: New Game...
+preferencesText: Preferences...
+gravityText: Gravity
+prefsWindowTitle: Pong Preferences
+fgColorChange: Change Foreground Color...
+bgColorChange: Change Background Color...
+fgColorChangeTitle: Change Foreground Color
+bgColorChangeTitle: Change Background Color
+newGameTitle: New Game - Choose Mode
+sgTraining: Single player: training
+sgArkanoid: Single player: arkanoid
+dualHumanHuman: Two players: human vs. human
+dualHumanComputer: Two players: human vs. computer
+dualBattle: Two players: human vs. human battle
+cancel: Cancel
+ok: OK
+colorScheme: Colors
+ball: Ball
+changeBallSpeed: Change ball speed
+changeBallSize: Change ball size
+changePaddleHeight: Change paddle height
+paddle: Paddle
+bricks: Bricks
+bricksColorChange: Change Brick Color...
+bricksColorChangeTitle: Change Brick Color
+missile: Missile
+missileColorChange: Change Missile Color...
+missileColorChangeTitle: Change Missile Color
+wall: Wall
+changeWallColor: Change Wall Color...
+changeWallColorTitle: Change Wall Color
+changeWallHeight: Change Wall Height
+winnerString: The %s side wins!
+left: left
+right: right
+gjgghjg

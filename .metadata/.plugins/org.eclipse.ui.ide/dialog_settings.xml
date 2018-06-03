@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Volumes/Data/Computer-related/Programs/Java/IDEA/Pong/Pong v1.0"/>
+			<item value="/Volumes/UNTITLED/Pong v1.0"/>
+			<item value="/Volumes/Data/Computer-related/Programs/Java/IDEA/Pong/v0.7.2b"/>
+			<item value="/Volumes/Data/Computer-related/Programs/Java/IDEA/Pong"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

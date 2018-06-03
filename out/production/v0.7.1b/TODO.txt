@@ -1,0 +1,8 @@
+                                            TO-DO
+---------------------------------------------------------------------------------------------
+
+comment code (8/19/15 - 8/30/15)
+write user documentation (8/24/15 - 9/10/15)
+beta testing (8/24/15 - 9/14/15)
+last improvements to code, comments & user documentation (9/10/15 - 9/14/15)
+submit code & user documentation (9/15/15)

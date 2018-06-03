@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Volumes/Data/Computer-related/Programs/Java/IDEA/Pong/.metadata/.plugins/org.eclipse.jdt.core
+1876929907.index

@@ -1,0 +1,36 @@
+startScreenText: Appuyez sur une touche ou cliquez la souris pour commencer
+quitText: Quitter
+pauseText: Pause
+playText: Reprendre
+newGameText: Nouveau Jeu...
+preferencesText: Préférences...
+gravityText: Gravité
+prefsWindowTitle: Préférences de Pong
+fgColorChange: Changer la couleur du premier plan...
+bgColorChange: Changer la couleur du fond...
+fgColorChangeTitle: Changer la couleur du premier plan
+bgColorChangeTitle: Changer la couleur du fond
+newGameTitle: Nouveau Jeu - Choisir Mode
+sgTraining: Un joueur: entraînement
+sgArkanoid: Un joueur: casse-brique
+dualHumanHuman: Deux joueurs: homme vs. homme
+dualHumanComputer: Deux joueurs: homme vs. ordinateur
+dualBattle: Deux joueurs: homme vs. homme - bataille
+cancel: Annuler
+ok: OK
+colorScheme: Couleurs
+ball: Balle
+changeBallSpeed: Changer la vitesse de la balle
+changeBallSize: Changer la taille de la balle
+changePaddleHeight: Changer la taille de la raquette
+paddle: Raquette
+bricks: Briques
+bricksColorChange: Changer la couleur des briques...
+bricksColorChangeTitle: Changer la couleur des briques
+missile: Missile
+missileColorChange: Changer la couleur du missile...
+missileColorChangeTitle: Changer la couleur du missile
+wall: Wall
+changeWallColor: Change Wall Color...
+changeWallColorTitle: Change Wall Color
+changeWallHeight: Change Wall Height

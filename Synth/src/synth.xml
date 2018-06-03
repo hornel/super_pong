@@ -1,0 +1,70 @@
+<synth>
+    <style id="backingStyle">
+        <opaque value="FALSE"/>
+        <font name="Dialog" size="12"/>
+        <state>
+            <color value="WHITE" type="BACKGROUND"/>
+            <color value="BLACK" type="FOREGROUND"/>
+        </state>
+    </style>
+    <bind style="backingStyle" type="region" key=".*"/>
+
+    <style id="SliderTrackStyle">
+        <opaque value="TRUE"/>
+        <state>
+            <color type="BACKGROUND" value="GRAY"/>
+        </state>
+    </style>
+    <bind style="SliderTrackStyle" type="region" key="SliderTrack" />
+
+    <style id="SliderThumbStyle">
+        <opaque value="TRUE"/>
+        <state>
+            <color type="BACKGROUND" value="WHITE"/>
+        </state>
+    </style>
+    <bind style="SliderThumbStyle" type="region" key="SliderThumb" />
+
+    <style id="Slider">
+        <property key="Slider.thumbWidth" type="integer" value="20"/>
+        <property key="Slider.thumbHeight" type="integer" value="10"/>
+        <property key="Slider.trackBorder" type="integer" value="1"/>
+        <property key="Slider.paintValue" type="boolean" value="false"/>
+        <state value="mouse_over">
+            <color type="BACKGROUND" value="DARK_GRAY"/>
+        </state>
+        <font name="Dialog" size="10"/>
+    </style>
+    <bind style="Slider" type="region" key="Slider"/>
+
+    <style id="ButtonStyle">
+        <opaque value="true"/>
+        <property key="Button.margin" type="insets" value="10 10 10 10"/>
+        <state value="PRESSED">
+            <color type="BACKGROUND" value="BLACK"/>
+        </state>
+        <state value="MOUSE_OVER">
+            <color type="BACKGROUND" value="DARK_GRAY"/>
+        </state>
+        <state>
+            <color type="BACKGROUND" value="GRAY"/>
+            <color type="TEXT_FOREGROUND" value="WHITE"/>
+        </state>
+    </style>
+    <bind style="ButtonStyle" type="region" key="Button"/>
+
+    <style id="CheckBoxStyle">
+        <opaque value="true"/>
+        <state value="PRESSED">
+            <color type="BACKGROUND" value="BLACK"/>
+        </state>
+        <state value="MOUSE_OVER">
+            <color type="BACKGROUND" value="DARK_GRAY"/>
+        </state>
+        <state>
+            <color type="BACKGROUND" value="GRAY"/>
+            <color type="TEXT_FOREGROUND" value="WHITE"/>
+        </state>
+    </style>
+    <bind style="CheckBoxStyle" type="region" key="CheckBox"/>
+</synth>

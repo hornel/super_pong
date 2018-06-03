@@ -1,0 +1,71 @@
+startScreenText: Drücken Sie eine beliebige Taste oder klicken Sie die Maus, um anzufangen
+quitText: Schließen
+pauseText: Pause
+playText: Spielen
+newGameText: Neues Spiel...
+preferencesText: Einstellungen...
+gravity: Schwerkraft
+prefsWindowTitle: Pong-Einstellungen
+fgColorChange: Vordergrundfarbe ändern...
+bgColorChange: Hintergrundfarbe ändern...
+fgColorChangeTitle: Vordergrundfarbe ändern
+bgColorChangeTitle: Hintergrundfarbe ändern
+newGameTitle: Neues Spiel - Spielmodus auswählen
+sgTraining: Ein Spieler: trainieren
+sgArkanoid: Ein Spieler: arkanoid
+dualHumanHuman: Zwei Spieler: Mensch vs. Mensch
+dualHumanComputer: Zwei Spieler: Mensch vs. Computer
+dualBattle: Zwei Spieler: Mensch vs. Mensch - Kampf
+cancel: Abbrechen
+ok: OK
+colorScheme: Farben
+ball: Ball
+changeBallSpeed: Ballgeschwindigkeit ändern
+changeBallSize: Ballgröße ändern
+changePaddleHeight: Schlägerhöhe ändern
+paddle: Schläger
+bricks: Ziegeln
+bricksColorChange: Ziegelfarbe ändern...
+bricksColorChangeTitle: Ziegelfarbe ändern
+missile: Rakete
+missileColorChange: Raketenfarbe ändern...
+missileColorChangeTitle: Raketenfarbe ändern
+wall: Wand
+changeWallColor: Wandfarbe ändern...
+changeWallColorTitle: Wandfarbe ändern
+changeWallHeight: Wandhöhe ändern
+winnerString: Die %s Seite hat gewonnen!
+left: linke
+right: rechte
+hitString: Treffer: %s
+missString: Fehler: %s
+scoreString: Punkte: %s
+livesString: Verbleibende Leben: %s
+timeRemaining: Verbleibende Zeit:
+gameOver: Spiel vorbei
+gameOverOptions: Sie haben entweder alle Ihre Leben verbraucht oder die Zeit ist verlaufen.\
+Wollen Sie weiterspielen?
+rows: Reihen:
+columns: Spalten:
+physics: Physik
+help: Hilfe
+score: Punkte
+maxScore: Maximale Punktzahl:
+terminalVelocity: Endgeschwindigkeit
+about: Über Pong
+version: Version
+copyright: © 2015 Leo Horne. Alle Rechte vorbehalten.
+reportBug: Programmfehler melden...
+userManual: Benutzeranleitung...
+sendingBugReport: Wird gesendet...
+title: Titel:
+whatHappenedString: Beschreiben Sie, was passiert ist, als der Fehler passierte:
+reproduceString: Wenn möglich, beschreiben Sie, wie man den Fehler reproduzieren kann:
+name: Ihr Name:
+submit: Abgeben
+addScreenshot: Bildschirmfoto anhängen
+AI: KI
+changeAIDifficulty: Schwierigkeit der KI ändern
+easy: Einfach
+medium: Mittel
+hard: Schwer

@@ -1,0 +1,36 @@
+startScreenText: Drücken Sie eine beliebige Taste oder klicken Sie die Maus, um anzufangen
+quitText: Schließen
+pauseText: Pause
+playText: Spielen
+newGameText: Neues Spiel...
+preferencesText: Einstellungen...
+gravityText: Schwerkraft
+prefsWindowTitle: Pong-Einstellungen
+fgColorChange: Vordergrundfarbe ändern...
+bgColorChange: Hintergrundfarbe ändern...
+fgColorChangeTitle: Vordergrundfarbe ändern
+bgColorChangeTitle: Hintergrundfarbe ändern
+newGameTitle: Neues Spiel - Spielmodus auswählen
+sgTraining: Ein Spieler: trainieren
+sgArkanoid: Ein Spieler: arkanoid
+dualHumanHuman: Zwei Spieler: Mensch vs. Mensch
+dualHumanComputer: Zwei Spieler: Mensch vs. Computer
+dualBattle: Zwei Spieler: Mensch vs. Mensch - Kampf
+cancel: Abbrechen
+ok: OK
+colorScheme: Farben
+ball: Ball
+changeBallSpeed: Ballgeschwindigkeit ändern
+changeBallSize: Ballgröße ändern
+changePaddleHeight: Schlägerhöhe ändern
+paddle: Schläger
+bricks: Ziegeln
+bricksColorChange: Ziegelfarbe ändern...
+bricksColorChangeTitle: Ziegelfarbe ändern
+missile: Rakete
+missileColorChange: Raketenfarbe ändern...
+missileColorChangeTitle: Raketenfarbe ändern
+wall: Wall
+changeWallColor: Change Wall Color...
+changeWallColorTitle: Change Wall Color
+changeWallHeight: Change Wall Height

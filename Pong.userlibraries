@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="javax.mail">
+    <archive path="/Volumes/Data/Computer-related/Programs/Java/IDEA/Pong/lib/javax.mail.jar" />
+  </library>
+  <library name="Python 2.7.10 (/usr/bin/python) interpreter library">
+    <archive path="/Library/Python/2.7/site-packages/ply-3.4-py2.7.egg" />
+    <archive path="/Library/Python/2.7/site-packages/setuptools-15.0-py2.7.egg" />
+    <archive path="/Library/Python/2.7/site-packages/pip-6.1.1-py2.7.egg" />
+    <archive path="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+    <archive path="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+    <archive path="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+    <archive path="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+    <archive path="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+    <archive path="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+    <archive path="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+    <archive path="/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+    <archive path="/Library/Python/2.7/site-packages" />
+    <archive path="/Users/Leo/Library/Application Support/IdeaIC14/python/helpers/python-skeletons" />
+    <archive path="/Users/Leo/Library/Caches/IdeaIC14/python_stubs/348993582" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,70 @@
+startScreenText: Press any key or click the mouse to start
+quitText: Quit
+pauseText: Pause
+playText: Play
+newGameText: New Game...
+preferencesText: Preferences...
+gravity: Gravity
+prefsWindowTitle: Pong Preferences
+fgColorChange: Change Foreground Color...
+bgColorChange: Change Background Color...
+fgColorChangeTitle: Change Foreground Color
+bgColorChangeTitle: Change Background Color
+newGameTitle: New Game - Choose Mode
+sgTraining: Single player: training
+sgArkanoid: Single player: breakout
+dualHumanHuman: Two players: human vs. human
+dualHumanComputer: Two players: human vs. computer
+dualHumanBattle: Two players: human vs. human battle
+dualAIBattle: Two Players: human vs. computer battle
+cancel: Cancel
+ok: OK
+colorScheme: Colors
+ball: Ball
+changeBallSpeed: Change ball speed
+changeBallSize: Change ball size
+changePaddleHeight: Change paddle height
+paddle: Paddle
+bricks: Bricks
+bricksColorChange: Change Brick Color...
+bricksColorChangeTitle: Change Brick Color
+missile: Missile
+missileColorChange: Change Missile Color...
+missileColorChangeTitle: Change Missile Color
+wall: Wall
+changeWallColor: Change Wall Color...
+changeWallColorTitle: Change Wall Color
+changeWallHeight: Change Wall Height
+winnerString: WINNER!
+hitString: Hits: %s
+missString: Misses: %s
+scoreString: Score: %s
+livesString: Lives Left: %s
+timeRemaining: Time Remaining:
+gameOver: Game Over
+gameOverOptions: Either you have no lives left, or time has run out.\
+Would you like to continue playing?
+rows: Rows:
+columns: Columns:
+physics: Physics
+score: Score
+maxScore: Max Score:
+terminalVelocity: Terminal Velocity
+about: About Pong
+version: Version
+copyright: © 2015 Leo Horne.
+allRightsReserved: All rights reserved.
+reportBug: Report a Bug...
+sendingBugReport: Sending Bug Report...
+title: Title:
+whatHappenedString: Describe what happened when you encountered this bug:
+reproduceString: If applicable, describe how this bug can be reproduced:
+submit: Submit
+addScreenshot: Add Screenshot
+bugReportSubmitted: Bug report submitted.
+AI: AI
+changeAIDifficulty: Change AI Difficulty
+easy: Easy
+medium: Medium
+hard: Hard
+imageFiles: Image Files

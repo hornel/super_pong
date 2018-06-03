@@ -1,0 +1,10 @@
+                                            TO-DO
+---------------------------------------------------------------------------------------------
+
+fix AI (adjust AI speed to ball speed) (8/16/15)
+rewrite missiles (make sure to adjust missile speed to ball speed) (8/16/15 - 8/17/15)
+implement max score pref for TwoPlayerPongCanvases (8/18/15)
+start alpha testing (8/18/15)
+comment code (8/19/15 - 8/22/15)
+write user documentation (8/19/15 - 8/23/15)
+beta testing and last improvements to code, comments & user documentation (8/24/15 - 9/14/15)

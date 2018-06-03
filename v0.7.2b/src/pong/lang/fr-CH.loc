@@ -1,0 +1,212 @@
+# Les fichiers de localisation sont écrits dans le format suivant:
+#
+#       identificateur: texte
+#
+# Il faut faire attention a l'espace après le double-point.
+# Les commentaires sont précédés par #.
+# Les lignes blanches sont tolérées.
+# Les espaces devant l'identificateur seront pris en compte dans le nom de l'identificateur.
+# Les espaces apres l'identificateur ou devant le texte (à part l'espace après le double-point)
+# seront pris en compte dans le texte.
+# Les espaces après le texte seront pris en compte dans le texte.
+# Si le texte prend plusieurs lignes, il faut terminer chaque ligne à part la dernière par un \.
+
+# Le texte de la fenêtre de bienvenue.
+startScreenText: Appuyez sur une touche ou cliquez sur la souris pour commencer
+
+# Le texte affiché sur le bouton "Quitter"
+quitText: Quitter
+
+# Le texte affiché sur le bouton "Pause" lorsque le jeu n'est pas en pause
+pauseText: Pause
+
+# Le texte affiché sur le bouton "Pause" lorsque le jeu est en pause
+playText: Reprendre
+
+# Le texte affiché sur le bouton pour commencer un nouveau jeu
+newGameText: Nouveau Jeu...
+
+# Le texte du bouton pour ouvrir les préférences
+preferencesText: Préférences...
+
+# Le texte qui veut dire "gravité" --> case à cocher pour activer/désaciver la gravité dans les préférences
+gravity: Gravité
+
+# Titre de la fenêtre de préférences
+prefsWindowTitle: Préférences de Pong
+
+# Texte du bouton pour changer la couleur des raquettes, de la balle, de la ligne du milieu et du score dans les
+# préférences
+fgColorChange: Changer la couleur du premier plan...
+
+# Texte du bouton pour changer la couleur du fond du jeu dans les préférences
+bgColorChange: Changer la couleur du fond...
+
+# Le titre de la fenêtre pour changer la couleur du premier plan
+fgColorChangeTitle: Changer la couleur du premier plan
+
+# Le titre de la fenêtre pour changer la couleur du fond
+bgColorChangeTitle: Changer la couleur du fond
+
+# Le titre de la fenêtre pour commencer un nouveau jeu
+newGameTitle: Nouveau Jeu - Choisir Mode
+
+# Le texte pour choisir le mode entraînement
+sgTraining: Un joueur: entraînement
+
+# Le texte pour choisir le mode casse-brique
+sgArkanoid: Un joueur: casse-brique
+
+# Le texte pour choisir le mode standard
+dualHumanHuman: Deux joueurs: homme vs. homme
+
+# Le texte pour choisir le mode standard avec IA
+dualHumanComputer: Deux joueurs: homme vs. ordinateur
+
+# Le texte pour choisir le mode bataille
+dualHumanBattle: Deux joueurs: homme vs. homme - bataille
+
+# Le texte pour choisir le mode bataille avec IA
+dualAIBattle: Deux joueurs: homme vs. ordinateur - bataille
+
+# Le texte pour des boutons "Annuler"
+cancel: Annuler
+
+# Le texte pour des boutons "OK"
+ok: OK
+
+# Le nom de l'onglet pour changer les couleurs du jeu
+colorScheme: Couleurs
+
+# Le nom de l'onglet pour changer les propriétés de la balle
+ball: Balle
+
+# Le texte pour changer la vitesse de la balle
+changeBallSpeed: Changer la vitesse de la balle
+
+# Le texte pour changer la taille de de la balle
+changeBallSize: Changer la taille de la balle
+
+# Le texte pour changer la taille des raquettes
+changePaddleHeight: Changer la taille de la raquette
+
+# Le nom de l'onglet pour changer les propriétés de la raquette
+paddle: Raquette
+
+# Le nom de l'onglet pour changer les propriétés des briques
+bricks: Briques
+
+# Le texte du bouton pour changer la couleur des briques
+bricksColorChange: Changer la couleur des briques...
+
+# Le titre de la fenêtre pour changer la couleur des briques
+bricksColorChangeTitle: Changer la couleur des briques
+
+# Le nom de l'onglet pour changer les propriétés du missile
+missile: Missile
+
+# Le texte du bouton pour changer la couleur des missiles
+missileColorChange: Changer la couleur des missiles...
+
+# Le titre de la fenêtre pour changer la couleur des missiles
+missileColorChangeTitle: Changer la couleur des missiles
+
+# Le nom de l'onglet pour changer les propriétés du mur
+wall: Mur
+
+# Le texte du bouton pour changer la couleur du mur
+changeWallColor: Changer la couleur du mur...
+
+# Le titre de la fenêtre pour changer la couleur du mur
+changeWallColorTitle: Changer la couleur du mur
+
+# Le texte pour changer taille du mur
+changeWallHeight: Changer la hauteur du mur
+
+# Le texte affiché lorsqu'un joueur gagne contre un autre
+winnerString: GAGNANT!
+
+# Les informations dans les modes à un joueur
+hitString: Coups réussis: %s
+missString: Coups ratés: %s
+scoreString: Points: %s
+livesString: Vies restantes: %s
+timeRemaining: Temps restant:
+
+# Texte affiché lorsqu'un jeu à un joueur est terminé
+gameOver: Jeu terminé
+
+# Les options après le Game Over dans le mode entraînement
+gameOverOptions: Vous avez utilisé toutes vos vies ou le temps s'est écoulé.\
+Voulez-vous continuer à jouer?
+
+# Le texte des lignes et des colonnes dans le selectionneur de modes
+rows: Lignes:
+columns: Colonnes:
+
+# Le nom de l'onglet pour changer la physique du jeu
+physics: Physique
+
+# Le titre de l'onglet pour changer les préférences du score dans les modes à deux joueurs
+score: Score
+
+# Le texte pour changer le score maximal
+maxScore: Score maximal:
+
+# Le texte pour changer la vitesse terminale
+terminalVelocity: Vitesse terminale
+
+# Le titre de la fenêtre d'aide
+about: À propos de Pong
+
+# Le texte "Version: x.x.x" dans la fenêtre d'aide
+version: Version
+
+# La première partie du copyright affiché dans la fenêtre d'aide
+copyright: © 2015 Leo Horne.
+
+# La deuxième partie
+allRightsReserved: Tous droits réservés.
+
+# Texte du bouton pour signaler un bug
+reportBug: Signaler un bug...
+
+# Texte qui est affiché lorsque l'utilisateur envoye le rapport du bug
+sendingBugReport: En train d'envoyer...
+
+# Texte qui est affiché pour signaler que l'utilisateur doit entrer le titre du bug dans l'espace après ce texte
+title: Titre:
+
+# Texte qui est affiché pour signaler que l'utilisateur doit entrer ce qui s'est passé dans l'espace après ce texte
+whatHappenedString: Décrivez ce qui s'est passé lorsque vous avez rencontré ce bug:
+
+# Texte qui est affiché pour signaler que l'utilisateur doit entrer comment reproduire le comportement du bug dans
+# l'espace après ce texte
+reproduceString: Si possible, décrivez comment on peut reproduire le bug:
+
+# Texte pour valider la signalisation d'un bug
+submit: Soumettre
+
+# Texte pour ajouter une capture d'ecran au rapport du bug
+addScreenshot: Ajouter une capture d'écran
+
+# Titre de l'onglet pour changer les propriétés de l'IA
+AI: IA
+
+# Texte pour changer la difficulté de l'IA
+changeAIDifficulty: Changer la difficulté de l'IA
+
+# Le texte qui veut dire un niveau facile de l'IA
+easy: Facile
+
+# Le texte qui veut dire un niveau moyen de l'IA
+medium: Moyen
+
+# Le texte qui veut dire un niveau difficile de l'IA
+hard: Difficile
+
+# Texte qui affiche que le rapport du bug a été envoyé
+bugReportSubmitted: Envoyé.
+
+# Texte qui indique le format des fichiers qu'on peut sélectionner pour envoyer une capture d'écran
+imageFiles: Images
